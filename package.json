@@ -34,11 +34,7 @@
     "@fontsource/mulish": "4.5.13",
     "@fortawesome/fontawesome-free": "^6.2.0",
     "autoprefixer": "^10.4.13",
-<<<<<<< HEAD
-    "bootstrap": "^5.0.0",
-=======
     "bootstrap": "^5.3.3",
->>>>>>> 04aee08 (Updated dependencies)
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-config-standard": "^17.0.0",
