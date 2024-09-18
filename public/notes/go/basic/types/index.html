@@ -26,7 +26,10 @@
 <meta property="og:url" content="http://localhost:1313/notes/go/basic/types/">
   <meta property="og:site_name" content="Zero-Dawn">
   <meta property="og:title" content="Basic Types">
-  <meta property="og:description" content=" Strings str := &#34;Hello&#34; ">
+  <meta property="og:description" content=" Strings str := &#34;Hello&#34; Multiline string
+str := `Multiline string` Numbers Typical types
+num := 3 // int num := 3. // float64 num := 3 &#43; 4i // complex128 num := byte(&#39;a&#39;) // byte (alias for uint8) Other Types
+var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays // var numbers [5]int numbers := [...]int{0, 0, 0, 0, 0} Pointers func main () { b := *getPointer() fmt.Println(&#34;Value is&#34;, b) func getPointer () (myPointer *int) { a := 234 return &amp;a a := new(int) *a = 234 Pointers point to a memory location of a variable. Go is fully garbage-collected.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="notes">
@@ -34,7 +37,10 @@
     
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Basic Types">
-  <meta name="twitter:description" content=" Strings str := &#34;Hello&#34; ">
+  <meta name="twitter:description" content=" Strings str := &#34;Hello&#34; Multiline string
+str := `Multiline string` Numbers Typical types
+num := 3 // int num := 3. // float64 num := 3 &#43; 4i // complex128 num := byte(&#39;a&#39;) // byte (alias for uint8) Other Types
+var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays // var numbers [5]int numbers := [...]int{0, 0, 0, 0, 0} Pointers func main () { b := *getPointer() fmt.Println(&#34;Value is&#34;, b) func getPointer () (myPointer *int) { a := 234 return &amp;a a := new(int) *a = 234 Pointers point to a memory location of a variable. Go is fully garbage-collected.">
 
     
      
@@ -177,13 +183,13 @@
             
             
             
+            
               
               
                 <li class="nav-item">
                   <a class="nav-link" href="/#accomplishments">Accomplishments</a>
                 </li>
               
-            
             
             
             
@@ -594,7 +600,6 @@
               
               
               
-              
                 
                 
                   
@@ -602,6 +607,7 @@
                 <li class="nav-item">
                   <a class="smooth-scroll" href="http://localhost:1313/#accomplishments">Accomplishments</a>
                 </li>
+              
               
               
               
