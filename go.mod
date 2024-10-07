@@ -1,4 +1,4 @@
-module github.com/hugo-toha/toha/v4
+module github.com/the-whiz84/zerodawn.tech
 
 go 1.23
 
