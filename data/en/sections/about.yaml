@@ -40,9 +40,6 @@ socialLinks:
   icon: "fab fa-twitter"
   url: "https://www.twitter.com/The_Whiz84"
 
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -62,7 +59,7 @@ badges:
 - type: certification
   name: Okta Certified Consultant
   url: "https://www.credly.com/badges/89c97534-9cc4-4d5f-8208-7a1a03a43675/public_url"
-  badge: "https://images.credly.com/size/680x680/images/d9e79704-4e57-4a53-837a-313ac12c00af/Badge-Certified-Consultant_600b.png"
+  badge: "https://images.credly.com/images/05c69eac-f494-403f-9f5e-b590d1c2ce0e/image.png"
 
 - type: certification
   name: Microsoft Certified - Azure Administrator Associate

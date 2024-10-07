@@ -133,7 +133,7 @@ params:
         facebook: false
         twitter: true
         linkedin: false
-        reddit: true
+        reddit: false
         whatsapp: false
         email: true
         # tumblr: true
