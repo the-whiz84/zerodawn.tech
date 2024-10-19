@@ -23,18 +23,36 @@ buttons:
 projects:
 - name: Python Projects
   logo: /images/sections/projects/python.png
-  role: Owner
+  role: Owner, Developer
   timeline: "January 2022 - Present"
   repo: https://github.com/the-whiz84/Python_Projects # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Repo for my Python Projects created during the 100 Days of Python Course on Udemy
-  tags: ["professional", "hobby", "programming"]
+  tags: ["professional", "programming"]
 
 - name: Radu's Blog
   logo: /images/sections/projects/python.png
-  role: Owner
+  role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Capstone_Blog_Project
   url: https://thewhiz.eu.pythonanywhere.com
-  summary: A Blog Website created with Python and Flask
-  tags: ["personal", "professional", "programming"]
+  summary: A Blog Website created with Python, Flask and SQLAlchemy
+  tags: ["professional", "programming"]
+
+- name: OrganizeIT
+  logo: /images/sections/projects/organize-it.png
+  role: Owner, Developer
+  timeline: "Oct 2024 - Present"
+  # repo: https://github.com/the-whiz84/Capstone_Blog_Project
+  url: https://todo.zerodawn.tech
+  summary: ToDo Web App created with Flask, Bootstrap 5 and PostgreSQL
+  tags: ["professional", "programming"]
+
+- name: Zero-Dawn Shop
+  logo: /images/sections/projects/shop.png
+  role: Owner, Developer
+  timeline: "Oct 2024 - Present"
+  repo: https://github.com/the-whiz84/Python_Projects/tree/main/Day97-E-Commerce_Website
+  # url: https://shop.zerodawn.tech
+  summary: eCommerce Example Website created with Flask, Bootstrap 5 and Stripe Payment Processing
+  tags: ["professional", "programming"]

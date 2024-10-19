@@ -17,19 +17,25 @@ buttons:
   filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
+- name: Tech Support
+  filter: "tech-support"
 - name: Others
   filter: "others"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary : "Learned Python as my first programming language. I have used it in various projects, including web development, data analysis, and automation."
+  url: "https://github.com/the-whiz84/Python_Projects/tree/main"
+  categories: ["language"]
+
 - name: Identity and Access Management
   logo: /images/sections/skills/okta.png
   summary : "Experienced in resolving support tickets raised by clients that use Okta to integrate their on-prem or cloud applications with SSO, MFA and Lifecycle Management."
   url: "https://www.okta.com"
-  categories: ["others"]
+  categories: ["tech-support"]
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -39,7 +45,7 @@ skills:
 - name: Technical Support
   logo: /images/sections/skills/tech-support.png
   summary: "Highly experienced in offering technical support, both hardware and software, while working for Lenovo, Dell and now for Okta."
-  categories: ["basic"]
+  categories: ["tech-support"]
 
 - name: Puppet
   logo: /images/sections/skills/puppet.svg
