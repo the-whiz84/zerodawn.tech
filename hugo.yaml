@@ -326,9 +326,9 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: false
-      # provider: mailchimp
-      # mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+      enable: true
+      provider: mailchimp
+      mailchimpURL: "https://tech.us13.list-manage.com/subscribe/post?u=e9f58f58356ba833b0898a91d&amp;id=86a0fa33b2&amp;f_id=00b87ce9f0"
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
