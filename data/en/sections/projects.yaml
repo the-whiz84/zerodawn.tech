@@ -52,7 +52,7 @@ projects:
   logo: /images/sections/projects/shop.png
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
-  repo: https://github.com/the-whiz84/Python_Projects/tree/main/Day97-E-Commerce_Website
-  # url: https://shop.zerodawn.tech
+  # repo: https://github.com/the-whiz84/Python_Projects/tree/main/Day97-E-Commerce_Website
+  url: https://thewhiz.eu.pythonanywhere.com
   summary: eCommerce Example Website created with Flask, Bootstrap 5 and Stripe Payment Processing
   tags: ["professional", "programming"]
