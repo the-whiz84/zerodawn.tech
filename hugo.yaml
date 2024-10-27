@@ -1,7 +1,7 @@
 baseURL: https://zerodawn.tech
 
 languageCode: en-us
-title: "Zero-Dawn"
+title: "Zero-Dawn v1.0"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Zero-Dawn"
+    title: "Zero-Dawn v1.0"
     weight: 1
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -332,4 +332,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
