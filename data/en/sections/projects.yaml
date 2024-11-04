@@ -35,7 +35,7 @@ projects:
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Capstone_Blog_Project
-  url: https://blog.zerodawn.tech
+  url: https://blog.thewhiz.me
   summary: A Blog Website created with Python, Flask and SQLAlchemy
   tags: ["professional", "programming"]
 
@@ -44,7 +44,7 @@ projects:
   role: Owner, Developer
   timeline: "Oct 2024 - Present"
   # repo: https://github.com/the-whiz84/Capstone_Blog_Project
-  url: https://todo.zerodawn.tech
+  url: https://todo.thewhiz.me
   summary: ToDo Web App created with Flask, Bootstrap 5 and PostgreSQL
   tags: ["professional", "programming"]
 
